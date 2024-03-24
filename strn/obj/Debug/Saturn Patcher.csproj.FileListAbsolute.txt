@@ -1,0 +1,11 @@
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Saturn Patcher.csproj.AssemblyReference.cache
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Saturn Patcher.csproj.SuggestedBindingRedirects.cache
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Win_1337_Patch.Form1.resources
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Win_1337_Patch.Properties.Resources.resources
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Saturn Patcher.csproj.GenerateResource.cache
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Saturn Patcher.csproj.CoreCompileInputs.cache
+D:\! Saturn\Saturn Patcher\strn\bin\Debug\Saturn Patcher.exe.config
+D:\! Saturn\Saturn Patcher\strn\bin\Debug\Saturn Patcher.exe
+D:\! Saturn\Saturn Patcher\strn\bin\Debug\Saturn Patcher.pdb
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Saturn Patcher.exe
+D:\! Saturn\Saturn Patcher\strn\obj\Debug\Saturn Patcher.pdb

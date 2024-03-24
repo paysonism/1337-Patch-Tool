@@ -1,0 +1,10 @@
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\bin\Debug\SubZero Patch Tool.exe.config
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\bin\Debug\SubZero Patch Tool.exe
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\bin\Debug\SubZero Patch Tool.pdb
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\SubZero Patch Tool (not pasted).csproj.AssemblyReference.cache
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.Form1.resources
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.Properties.Resources.resources
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\SubZero Patch Tool (not pasted).csproj.GenerateResource.cache
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\SubZero Patch Tool (not pasted).csproj.CoreCompileInputs.cache
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\SubZero Patch Tool.exe
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\SubZero Patch Tool.pdb

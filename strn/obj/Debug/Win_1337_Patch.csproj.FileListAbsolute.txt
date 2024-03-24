@@ -1,0 +1,10 @@
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\bin\Debug\Win_1337_Patch.exe.config
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\bin\Debug\Win_1337_Patch.exe
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\bin\Debug\Win_1337_Patch.pdb
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.csproj.AssemblyReference.cache
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.Form1.resources
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.Properties.Resources.resources
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.csproj.GenerateResource.cache
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.csproj.CoreCompileInputs.cache
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.exe
+C:\Users\ud asf\Downloads\Win_1337_Apply_Patch-master\Win_1337_Apply_Patch-master\Win_1337_Patch\obj\Debug\Win_1337_Patch.pdb
