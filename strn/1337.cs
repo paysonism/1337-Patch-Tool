@@ -23,7 +23,7 @@ namespace Win_1337_Patch
             InitializeComponent();
             var version = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version;
             string ver = "v" + version.Major + "." + version.Minor;
-            this.Text = "SubZero Patch Tool " + ver;
+            this.Text = "Saturn Patch Tool " + ver;
         }
         private bool mouseDown;
         private Point lastLocation;
@@ -128,7 +128,7 @@ namespace Win_1337_Patch
         {
             if (!s.StartsWith(">"))
             {
-                MessageBox.Show("The .1337 File is not valid...", "SubZero Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("The .1337 File is not valid...", "Saturn Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
             return true;
@@ -138,7 +138,7 @@ namespace Win_1337_Patch
         {
             if (f1337 == String.Empty)
             {
-                MessageBox.Show("Select a .1337 File...", "SubZero Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Select a .1337 File...", "Saturn Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             try
@@ -147,7 +147,7 @@ namespace Win_1337_Patch
             }
             catch
             {
-                MessageBox.Show("Problem occured when Patching...", "SubZero Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Problem occured when Patching...", "Saturn Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
         }
@@ -155,7 +155,7 @@ namespace Win_1337_Patch
         {
             if (!File.Exists(exe) || !File.Exists(f1337))
             {
-                MessageBox.Show("Files are no Longer Present...", "SubZero Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Files are no Longer Present...", "Saturn Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             string[] lines = File.ReadAllLines(f1337);
@@ -163,7 +163,7 @@ namespace Win_1337_Patch
                 return;
             if (lines[0].Substring(1).ToLower().Trim() != Path.GetFileName(exe).ToLower().Trim())
             {
-                MessageBox.Show("The Patch file selected is not for the file you selected.\n\n(\"" + lines[0].Substring(1).ToLower() + "\" but you have selected \"" + Path.GetFileName(exe).ToLower() + "\")", "SubZero Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("The Patch file selected is not for the file you selected.\n\n(\"" + lines[0].Substring(1).ToLower() + "\" but you have selected \"" + Path.GetFileName(exe).ToLower() + "\")", "Saturn Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             byte[] bexe = File.ReadAllBytes(exe);
@@ -181,7 +181,7 @@ namespace Win_1337_Patch
                         bexe[offsetHex] = byte.Parse(tmp2[1], System.Globalization.NumberStyles.HexNumber);
                     else
                     {
-                        MessageBox.Show("Offset [" + offsetHex.ToString("X") + "] Wrong...\n\nSet 0x" + bexe[offsetHex].ToString("X") + " -> I expected 0x" + byte.Parse(tmp2[0], System.Globalization.NumberStyles.HexNumber).ToString("X"), "SubZero Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Offset [" + offsetHex.ToString("X") + "] Wrong...\n\nSet 0x" + bexe[offsetHex].ToString("X") + " -> I expected 0x" + byte.Parse(tmp2[0], System.Globalization.NumberStyles.HexNumber).ToString("X"), "Saturn Patch Tool", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         ok = false;
                         break;
                     }

@@ -256,7 +256,7 @@
             this.MinimumSize = new System.Drawing.Size(1195, 291);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "SubZero Patcher";
+            this.Text = "Saturn Patcher";
             this.Load += new System.EventHandler(this.DFoX_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
